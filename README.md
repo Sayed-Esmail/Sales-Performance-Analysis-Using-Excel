@@ -1,4 +1,5 @@
 Sales Performance Dashboard – Excel
+
 📌 Project Overview
 
 This project is part of my Data Analytics Internship (Task 1).
